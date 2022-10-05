@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @preciousCoder
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on any project that would aid my growth towards my interest 
+- 👋 Hi, I’m Precious Dim
+- 👀 I am a Frontend Developer with industry experience working with Javascript, React and NodeJs
+- 🌱 I’m currently working on bettering my knowledge in Nodejs and backend
+- 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me dimpreciouschinaza@gmail.com
 
 <!---
