@@ -50,7 +50,7 @@ Contributed to digital platforms supporting the group's online presence and busi
 ### 🍽️ First Family Foods — Business Website & Admin Workflows
 Built a responsive web application and administrative management experience to support the business's digital presence and operational workflows.
 
-[Visit First Family Foods](https://firstfamilyfoods.net) · [Read the public case study](https://github.com/pressydon/pressydon/blob/main/case-studies/first-family-foods.md)
+[Visit First Family Foods](https://firstfamilyfoods.net) · [Read the public case study](https://github.com/pressydon/first-family-foods-case-study)
 
 ### 🏢 SwitchFusion Tech Masters — Product Engineering
 My digital product development venture, delivering websites, web applications, mobile applications, and custom software for businesses.
