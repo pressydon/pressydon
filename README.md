@@ -29,7 +29,7 @@ Some of the work below is proprietary. For those projects, I share a high-level 
 A web application concept focused on helping Nigerians manage energy use and explore greener energy options, with potential to scale to other markets.
 
 **Stack:** React, TypeScript, Zustand, NestJS  
-[Visit GreenNaijaEnergy](https://greennaijaenergy.com) · [Read the public case study](https://github.com/pressydon/pressydon/blob/main/case-studies/greennaijaenergy.md)
+[Visit GreenNaijaEnergy](https://greennaijaenergy.com) · [Read the public case study](https://github.com/pressydon/greennaijaenergy-case-study)
 
 ### 🚚 Iceriders Nigeria — Logistics & Delivery
 Contributed to a multi-sided delivery platform involving customer experiences, delivery-agent mobile applications, web interfaces, and administrative workflows.
