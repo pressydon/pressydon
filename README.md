@@ -29,12 +29,12 @@ Some of the work below is proprietary. For those projects, I share a high-level 
 A web application concept focused on helping Nigerians manage energy use and explore greener energy options, with potential to scale to other markets.
 
 **Stack:** React, TypeScript, Zustand, NestJS  
-[Visit GreenNaijaEnergy](https://greennaijaenergy.com) · [Case-study overview](https://github.com/pressydon/pressydon/blob/main/CASE_STUDIES.md#greennaijaenergy)
+[Visit GreenNaijaEnergy](https://greennaijaenergy.com) · [Read the public case study](https://github.com/pressydon/pressydon/blob/main/case-studies/greennaijaenergy.md)
 
 ### 🚚 Iceriders Nigeria — Logistics & Delivery
 Contributed to a multi-sided delivery platform involving customer experiences, delivery-agent mobile applications, web interfaces, and administrative workflows.
 
-[Visit Iceriders](https://iceridersnigeria.com) · [Case-study overview](https://github.com/pressydon/pressydon/blob/main/CASE_STUDIES.md#iceriders-nigeria)
+[Visit Iceriders](https://iceridersnigeria.com) · [Read the public case study](https://github.com/pressydon/pressydon/blob/main/case-studies/iceriders-nigeria.md)
 
 ### 🏢 ABIS Group ecosystem — Business Platforms
 Contributed to digital platforms supporting the group's online presence and business operations.
@@ -45,17 +45,17 @@ Contributed to digital platforms supporting the group's online presence and busi
 - [GetSpares](https://getspares.net)
 - [ABIS Farms app search on Google Play](https://play.google.com/store/search?q=abis%20farms&c=apps)
 
-[Case-study overview](https://github.com/pressydon/pressydon/blob/main/CASE_STUDIES.md#abis-group-ecosystem)
+[Read the public case study](https://github.com/pressydon/pressydon/blob/main/case-studies/abis-group-ecosystem.md)
 
 ### 🍽️ First Family Foods — Business Website & Admin Workflows
 Built a responsive web application and administrative management experience to support the business's digital presence and operational workflows.
 
-[Visit First Family Foods](https://firstfamilyfoods.net) · [Case-study overview](https://github.com/pressydon/pressydon/blob/main/CASE_STUDIES.md#first-family-foods)
+[Visit First Family Foods](https://firstfamilyfoods.net) · [Read the public case study](https://github.com/pressydon/pressydon/blob/main/case-studies/first-family-foods.md)
 
 ### 🏢 SwitchFusion Tech Masters — Product Engineering
 My digital product development venture, delivering websites, web applications, mobile applications, and custom software for businesses.
 
-[Visit SwitchFusion Tech Masters](https://switchfusiontech.com) · [Case-study overview](https://github.com/pressydon/pressydon/blob/main/CASE_STUDIES.md#switchfusion-tech-masters)
+[Visit SwitchFusion Tech Masters](https://switchfusiontech.com) · [Read the public case study](https://github.com/pressydon/pressydon/blob/main/case-studies/switchfusion-tech-masters.md)
 
 ### Other public projects
 - [BlueShare JSM](https://github.com/pressydon/blueshare-jsm) — image-sharing application
